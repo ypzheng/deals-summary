@@ -1,4 +1,5 @@
 {
   "name": "deals-summary-gh",
-  "srcDir": "src"
+  "srcDir": "src",
+  "platformVersion": "1960.1"
 }
